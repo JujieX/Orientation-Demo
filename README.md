@@ -1,9 +1,9 @@
-# Orientation-Demo
-现代前端如何入门 3D 开发 配套demo
+# Orientation Demo
+How to Get Started in 3D Development for Modern Front-End Developers
 
-文章地址： https://mp.weixin.qq.com/s/PyUd1V5apxLkYpp1Vs-CMQ
+Article： https://mp.weixin.qq.com/s/PyUd1V5apxLkYpp1Vs-CMQ
 
-视频教程地址： https://www.bilibili.com/video/BV12P411w7Rj
+Lecture Video：https://www.bilibili.com/video/BV12P411w7Rj
 
 ![RunningScene6](https://user-images.githubusercontent.com/67930474/203686844-4d34d219-dfe0-4b9d-b527-6d22731c0050.gif)
 
